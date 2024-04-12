@@ -1,0 +1,41 @@
+https://emotiv.gitbook.io/emotivbci/mental-commands/training-your-first-command
+
+Training your first command
+Once you have trained Neutral you are ready to train your first Command. Commands are thoughts that you will recreate in your mind when you want to trigger the action associated with it. Your goal is to perform thoughts that are:
+reproducible, so that you can create the same “brain state” as required, and
+separable (if your profile contains more than one Command), so that the system’s machine learning algorithms can easily recognize each action and distinguish them from each other.
+For advice on training, visit our . Once you have decided on the thought you will use for this action, you are ready to begin.
+To train your first Command, click on the unlocked command box and select the type of command you would like to train. Once you have selected your preferred Command, click “Train”. You will then be asked to hold a hold the Command thought in your mind for 8 seconds. During this time the cube will move according to the action you selected.
+  
+If you get distracted during any training, you can click on "Cancel" under the timer to stop the training session. No data will be added to your profile in this case.
+
+
+https://emotiv.gitbook.io/emotivbci/mental-commands/tips-and-tricks
+
+Tips and Tricks
+Choosing your thought: The thought that you train on and use for your Mental Commands can be anything. They can be literal (i.e. you can try and focus on pushing the virtual box) or they can be as abstract as you like (i.e. where push is associated with visualizing a scene or counting backwards from 500 in steps of 7). The possibilities are endless. Different strategies work best for different people, so try a few out.
+If you are training a profile with one command, you want to make that one command as strong and distinct as possible. One way to achieve this is to use something that is multi-modal - i.e. something that contains different sensory and kinematic (related to movements of your muscles) components all together. If you have a strong disposition toward any of these modalities (e.g. you are a musician and so can easily imagine auditory sounds), you may find focusing on this single modality works best for you.
+If you are training a profile with multiple commands, you may find you get best results if each of your commands uses a single and different sensory or kinematic modality (e.g. one that is visual, one that is auditory and one that is kinematic). What is most important is that they are distinct from each other and you are able to recreate them accurately in your mind repeatedly.
+You may also find that associating different hand gestures or postures with a Command can help to better reproduce them.
+Multiple commands: The more Commands that are in a profile the harder it is to trigger them independently. For best results, we recommend becoming confident with one command before trying a profile with two, and for becoming confident with two commands before trying a profile with three, etc.
+Training sequence: If you are training a profile with one command, we recommend that you alternate training of the Command with training of the Neutral state. This will provide the best contrast for your profile.
+If you plan to develop a profile with multiple commands, we recommend adding in all of the Commands at an early stage in the training process, rather than perfecting one Command before adding in the others. This way you can, from the beginning, ensure that the Commands are well separated from each other and work well together. You may find that cycling through them in sequence for training gives you the best result.
+Words of encouragement: Controlling machines with your mind is hard. Do not be discouraged if you are not able to master mind control right away. Being able to recreate a thought in your mind at will is something that take practice for most of us to learn. It is like learning how to generate certain patterns of brain activity to learn how to walk or talk. Practice certainly does help and you will likely find that with repeated trainings, your ability to trigger a command at will becomes much easier.
+The ability to clear your mind of distracting thoughts while focusing on a particular one can be a great way to train your brain to have better focus in other situations. Indeed, some people use Mental Commands training to challenge and train their attentional control generally.
+
+
+https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.emotiv.com%2Fknowledge-base%2Ftips-on-mental-command-training%2F&oq=cache%3Ahttps%3A%2F%2Fwww.emotiv.com%2Fknowledge-base%2Ftips-on-mental-command-training%2F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEIMTE5OWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tips on Mental Command training
+UpdatedAugust 13, 2019
+The way to get the best out of mental commands is to follow the instructions and practice the kind of things that work best for you – the new training mode in EmotivBCI provides some feedback about how distinguishable each command is from the others.
+
+We deliberately do not restrict the kind of signals that can be used for each detection. I’ve consulted with our research team and here are the most important things:
+
+1. Each action produces a distinct pattern from every other action. This is visible in the positioning of the dots in the EmotivBCI training screen (similar detections are closer together on the map). We find the best way to do this is to use very different images for each action. For example, think of the taste of lemons for PUSH and putting your hand in hot water for PULL. Many people get good results just by imagining physical motions of something, such as a ball of fluid mounted in the middle of your brain that you try to squeeze through holes in each direction, etc.
+
+2. The visualizations should be easy to reproduce each time. This comes with the practice generally. We find people can make one or two actions pretty easily with moderate accuracy but with practice (and perhaps by making a brand new profile after you get the hang of it) you can learn to make repeatable, distinguishable mental commands. This can take several hours of practice to become an expert, but even 20 minutes of practice is enough to get a pretty good result.
+
+We use a whole bunch of different features in the dataset (e.g power in a lot of narrow frequency bands, for each sensor, and several other kinds of feature) and then we cluster algorithms to predict the probability cloud of state, which is compared with the real-time data when you try to use the detection.
+
+
